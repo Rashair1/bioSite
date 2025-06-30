@@ -12,8 +12,8 @@ footer {
   text-align: right;
   padding-right: 10px;
   font-style: italic;
-  position: absolute;
-  bottom: 0;
+  position: fixed;
+  bottom: 1;
   width: max-content;
 
 }
