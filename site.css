@@ -9,11 +9,11 @@ footer {
   background-color: black;
   color: yellow;
   font-weight: 400;
-  text-align: right;
+  text-align: center;
   padding-right: 10px;
   font-style: italic;
-  position: fixed;
-  bottom: 1;
+  position: absolute;
+  bottom: 0;
   width: max-content;
 
 }
