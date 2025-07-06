@@ -5,6 +5,7 @@ header {
   letter-spacing: 2px;
   border-bottom: 15px solid #DE7CB2;
   border-radius: 25px; 
+  position: absolute;
   
 }
 
@@ -41,8 +42,6 @@ h1 {
 
 .navbar {
   overflow: hidden;
-  display: inline;
-  border-radius: 2px;
 }
 
 .navbar a {
