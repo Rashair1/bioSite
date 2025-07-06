@@ -42,7 +42,7 @@ h1 {
 .navbar {
   overflow: hidden;
   display: inline;
-  border-radius: 25px;
+  border-radius: 2px;
 }
 
 .navbar a {
@@ -61,7 +61,7 @@ h1 {
 
 .active {
   background-color: #DE8F62;
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 
